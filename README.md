@@ -3,12 +3,16 @@ A narrow proof-of-concept for car damage detection using YOLOv11 on the CarDD da
 
 ## installation
 git clone https://github.com/Emad-Abdalghaffar/vehicle-damage-baseline.git
+
 cd vehicle-damage-baseline
+
 pip install -r requirements.txt
 
 ## dataset download
 Download CarDD from https://cardd-ustc.github.io.
+
 Place the extracted folder with images/ and annotations/ inside the project root.
+
 Expected structure:
 
 	vehicle-damage-baseline/
