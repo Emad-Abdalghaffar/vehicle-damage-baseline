@@ -10,6 +10,7 @@ pip install -r requirements.txt
 Download CarDD from https://cardd-ustc.github.io.
 Place the extracted folder with images/ and annotations/ inside the project root.
 Expected structure:
+
 	vehicle-damage-baseline/
 	├── images/                    (CarDD original images)
 	└── annotations/
